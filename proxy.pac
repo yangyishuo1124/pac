@@ -1,6 +1,6 @@
     var hasOwnProperty = Object.hasOwnProperty;
     var iproxy ='DIRECT';
-    var proxy =  "PROXY shu-guang.tech:22200;";
+    var proxy =  "PROXY http://shu-guang.tech:22200;";
     var list = [
         [
         ],
